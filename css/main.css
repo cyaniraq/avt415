@@ -28,3 +28,7 @@ dt {
 	font-size: 2em;
 	font-weight: bold;
 }
+
+body.Heuristics {
+	font-family: 'Montserrat', sans-serif; 
+}
